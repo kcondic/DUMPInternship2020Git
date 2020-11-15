@@ -7,9 +7,10 @@ namespace DUMP
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Conflicting change in branch for rebase - changed again for tortoisegit");
+            Console.WriteLine("This is changed in TortoiseGit branch yet again");
             Console.WriteLine("Hello from third commit");
             Console.WriteLine("Tortoisegit new line in Program.cs");
+            Console.WriteLine("New line added in TortoiseGit branch");
         }
     }
 }
