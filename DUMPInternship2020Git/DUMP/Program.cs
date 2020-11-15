@@ -7,7 +7,7 @@ namespace DUMP
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello from second commit");
+            Console.WriteLine("Conflicting change");
             Console.WriteLine("Hello from third commit");
         }
     }
