@@ -12,6 +12,7 @@ namespace DUMP
             Console.WriteLine("Tortoisegit new line in Program.cs");
             Console.WriteLine("New line added in TortoiseGit branch");
             Console.WriteLine("New line added for git commit - interactive rebase change");
+            Console.WriteLine("Cherrypicked commit line");
         }
     }
 }
